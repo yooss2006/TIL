@@ -9,3 +9,7 @@
 거창한 내용들이 아닌 그날 그날 공부한 내용을 기록할 것이고 어느 한 주제가 완성되면 블로그에 글을 게시할 생각입니다.
 
 제 블로그는 <a href="https://velog.io/@yooss2006 "> <img src="https://img.shields.io/badge/-blog-green"></a> 입니다. 티끌모아 태산이라는 말이 있듯이 열심히 티끌한번 모아볼게요!
+
+- javascript
+
+  - [클로저](https://github.com/yooss2006/TIL/blob/main/javascript/closure.md)
