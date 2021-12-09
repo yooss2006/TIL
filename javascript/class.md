@@ -10,7 +10,7 @@
 
 1. 클래스를 new 연산자 없이 호출하면 에러 발생
    - 붕어빵틀을 먹을 순 없음
-2. expend와 super 문법 지원
+2. extend와 super 문법 지원
 3. 호이스팅이 발생하지 않는 것처럼 동작
 4. 암묵적인 strict mode 적용
 5. 클래스의 constructor, 프로토타입 메서드, 정적 메서드는 모두 프로퍼티 어트리뷰트 [[Enmerable]]의 값이 false이다.

@@ -22,17 +22,17 @@
 const x = 1;
 function outer() {
   const x = 20;
-  function iner() {
+  function inner() {
     console.log(x); //결과 20;
   }
-  iner();
+  inner();
 }
 outer();
 ```
 
-위 예제를 보게되면 함수가 중첩되어 있다. iner 함수가 선언된 위치는 outer 함수 안이라 iner함수의 상위스코프는 outer가 된다.
+위 예제를 보게되면 함수가 중첩되어 있다. inner 함수가 선언된 위치는 outer 함수 안이라 inner함수의 상위스코프는 outer가 된다.
 
-iner 함수의 바깥쪽에서 선언되었다면 상위스코프는 전역이 되었을 것 이다.
+inner 함수의 바깥쪽에서 선언되었다면 상위스코프는 전역이 되었을 것 이다.
 
 <br/>
 
