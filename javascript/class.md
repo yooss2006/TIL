@@ -118,7 +118,7 @@ Person.sayHello()//인스턴스를 만들지 않아도 실행 가능하다.
 > 3. 정적 메서드는 **인스턴스 프로퍼티 참조 불가**
 
 <aside>
-<img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1580888106/noticon/owcvyw4dggdylen2ql5w.gif" alt="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1580888106/noticon/owcvyw4dggdylen2ql5w.gif" width="40px" /> 한마디로 this를 사용하면 프로토타입 아니라면 정적 메서드를 상용하자.
+<img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1580888106/noticon/owcvyw4dggdylen2ql5w.gif" alt="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1580888106/noticon/owcvyw4dggdylen2ql5w.gif" width="40px" /> 한마디로 this를 사용하면 프로토타입 아니라면 정적 메서드를 사용하자.
 
 </aside>
 </br>
