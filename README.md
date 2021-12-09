@@ -13,3 +13,4 @@
 - javascript
 
   - [클로저](https://github.com/yooss2006/TIL/blob/main/javascript/closure.md)
+  - [클래스](https://github.com/yooss2006/TIL/blob/main/javascript/class.md)
