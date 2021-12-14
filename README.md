@@ -10,7 +10,11 @@
 
 제 블로그는 <a href="https://velog.io/@yooss2006 "> <img src="https://img.shields.io/badge/-blog-green"></a> 입니다. 티끌모아 태산이라는 말이 있듯이 열심히 티끌한번 모아볼게요!
 
-- javascript
+## javascript
 
-  - [클로저](https://github.com/yooss2006/TIL/blob/main/javascript/closure.md)
-  - [클래스](https://github.com/yooss2006/TIL/blob/main/javascript/class.md)
+---
+
+자바스크립트는 딥다이브 책을 공부하며 습득한 지식과 추가로 검색해서 얻은 내용을 바탕으로 정리됩니다.
+
+- [클로저](https://github.com/yooss2006/TIL/blob/main/javascript/closure.md)
+- [클래스](https://github.com/yooss2006/TIL/blob/main/javascript/class.md)
