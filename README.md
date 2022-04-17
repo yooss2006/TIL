@@ -18,7 +18,7 @@
 
 - [클로저](https://github.com/yooss2006/TIL/blob/main/javascript/closure.md)
 - [클래스](https://github.com/yooss2006/TIL/blob/main/javascript/class.md)
-- [브라우저의 렌더링 과정](https://github.com/yooss2006/TIL/blob/main/javascript/브라우저의 렌더링 과정.md)
+- [브라우저의 렌더링 과정](https://github.com/yooss2006/TIL/blob/main/javascript/브라우저의%20렌더링%20과정.md)
 
 ## special lecture
 
